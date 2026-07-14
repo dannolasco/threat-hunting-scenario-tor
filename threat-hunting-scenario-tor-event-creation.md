@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Daniel Nolasco G
-- **Author Contact**: https://www.linkedin.com/in/daniel-nolasco-gonzalez/
+- **Author Contact**:(https://www.linkedin.com/in/daniel-nolasco-gonzalez-73a839124/)
 - **Date**: June 14/26
 
 ## Validated By:
